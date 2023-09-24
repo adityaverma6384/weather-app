@@ -1,2 +1,2 @@
 weather card using in js
-To Fetch API
+To Fetch the API
