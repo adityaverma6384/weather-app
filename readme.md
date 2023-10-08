@@ -1,2 +1,2 @@
 weather card using in js
-To Fe
+To Fetch p
