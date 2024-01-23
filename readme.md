@@ -1,2 +1,2 @@
 weather card using in js
-To Feh API 
+To Feh API
